@@ -9,6 +9,6 @@ Getting started
 ---------------
 
 1. Add your API key and base ID to `.env`
-2. Change the table name in `app/app.js`
+2. Change the table name in `app/routes.js`
 3. If you're running this locally, run `npm install` and then `npm start` on the [command line](https://www.kevinmcgillivray.net/introduction-to-text-editors-and-the-command-line/)
 4. If you're running this on [Glitch](https://glitch.com/~airtable-node), click the "Show" button!
